@@ -9,7 +9,7 @@ Abre index.html en un navegador. Frontend local sin instalación ni dependencias
 - terms.html: términos en sueco.
 - privacy.html: privacidad en sueco.
 
-Las landings conservan los diseños locales: fondo negro, imagen del robot, logo, formulario gris y botones verdes. El layout pasa a dos columnas en desktop desde 900 px. Se mantiene el selector SE/EN, el precio de 100 SEK por semana, +18, STOP ITSAI+ al 72300 y el proveedor Next Move Digital LTD.
+Las landings conservan los diseños locales: fondo negro, imagen del robot, logo, formulario gris y botones verdes. El layout pasa a dos columnas en desktop desde 900 px. Se mantiene el selector SE/EN, el precio actualizado de 200 SEK al mes, +18, STOP ITSAI+ al 72300 y el proveedor Next Move Digital LTD.
 El PIN sueco usa la etiqueta sueca «Ange PIN-koden» en vez del texto inglés que conserva el mock.
 Todos los enlaces del footer funcionan localmente. La vuelta desde las páginas legales conserva paso e idioma. Las páginas legales se muestran en sueco también desde la landing inglesa.
 Las etiquetas dentro de img.png forman parte de la imagen original.
@@ -27,7 +27,7 @@ El parpadeo de botones es suave y respeta la preferencia de movimiento reducido.
 Consultado el 28 de octubre de 2026.
 El enlace proporcionado https://itsai-online.com/terms-and-conditions carga título y navegación, pero no muestra el cuerpo legal. Ya ocurría en la recreación local itsai-customer-care.
 Se ha usado como base el texto de ItsAI indexado en https://stage.itsai-online.com/terms-and-conditions. No se presenta como una traducción verificada del cuerpo actualmente publicado en producción.
-Se han concretado los marcadores del país, precio, divisa y periodo usando el diseño: Suecia, 100 SEK, semanal; se ha aplicado el requisito +18 de la landing y su instrucción de cancelación por SMS.
+Se han concretado los marcadores del país, precio, divisa y periodo según la última instrucción de precio: Suecia, 200 SEK, mensual; se ha aplicado el requisito +18 de la landing y su instrucción de cancelación por SMS.
 Se conserva identificada como referencia del original la mención histórica a Data Protection Act 1998.
 Los datos societarios corresponden a Next Move Digital LTD, no a Playwing.
 La privacidad se traduce de la política oficial de la empresa https://www.nextmove.digital/privacy, leída directamente en navegador: fecha 2 de julio de 2025 y siete apartados. Se añade el correo support@itsai-online.com del diseño como contacto del servicio.
